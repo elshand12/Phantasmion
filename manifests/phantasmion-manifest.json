@@ -1,0 +1,309 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://elshand12.github.io/Phantasmion/manifests/phantasmion-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://70d0608a-aa13-40e3-a7cf-3d4885d10d8c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c0a82ef0-14c3-4ae2-a1ca-1092cf0ade97",
+      "@type" : "sc:Canvas",
+      "label" : "Cover",
+      "height" : 1351,
+      "width" : 861,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://257dbfec-15a0-43c2-83f4-7e26eb9a7473",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/1-phantasmion-cover/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/1-phantasmion-cover",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1351,
+          "width" : 861
+        },
+        "on" : "http://c0a82ef0-14c3-4ae2-a1ca-1092cf0ade97"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://59ef4f9c-26e9-4a62-a13f-b48aae728706",
+      "@type" : "sc:Canvas",
+      "label" : "Bookplate",
+      "height" : 1325,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8cdd26e8-5766-48bb-9ffe-3936d3c5a003",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/2-phantasmion-bookplate/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/2-phantasmion-bookplate",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1325,
+          "width" : 800
+        },
+        "on" : "http://59ef4f9c-26e9-4a62-a13f-b48aae728706"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://aa35f0ee-d950-48bb-95a4-177280bdf31b",
+      "@type" : "sc:Canvas",
+      "label" : "Frontmatter i",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ecab85b3-8c01-4916-896d-35cfe7ec22b7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/3-phantasmion-i/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/3-phantasmion-i",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://aa35f0ee-d950-48bb-95a4-177280bdf31b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://20f85619-10ea-47db-891e-11df31b6408c",
+      "@type" : "sc:Canvas",
+      "label" : "Frontmatter ii",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fc67c12e-6ae2-447c-a2c5-a898ad766453",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/4-phantasmion-ii/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/4-phantasmion-ii",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://20f85619-10ea-47db-891e-11df31b6408c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://652a7822-704c-4675-93cd-edf5b23ef270",
+      "@type" : "sc:Canvas",
+      "label" : "Frontmatter iii",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6115e30e-676e-4a1b-9b73-3955ffa94927",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/5-phantasmion-iii/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/5-phantasmion-iii",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://652a7822-704c-4675-93cd-edf5b23ef270"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://370e1347-6440-4763-b2ed-e4edb9eb8629",
+      "@type" : "sc:Canvas",
+      "label" : "Frontmatter iv",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5be01582-a0e1-4850-8e81-73e708177c09",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/6-phantasmion-iv/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/6-phantasmion-iv",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://370e1347-6440-4763-b2ed-e4edb9eb8629"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://56505311-3689-4afb-852a-7bcd6c11aa73",
+      "@type" : "sc:Canvas",
+      "label" : "Frontmatter v",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://20de31c6-95e0-40e4-9bd9-d3583f72a526",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/7-phantasmion-v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/7-phantasmion-v",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://56505311-3689-4afb-852a-7bcd6c11aa73"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b16c4c17-5bc1-4c50-b711-e6c72f1ea2c7",
+      "@type" : "sc:Canvas",
+      "label" : "Frontmatter vi",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b0e59b6b-0b52-4842-8150-5a92e2ef5701",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/8-phantasmion-vi/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/8-phantasmion-vi",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://b16c4c17-5bc1-4c50-b711-e6c72f1ea2c7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f49a7e38-bc51-45a6-9a1a-b1d31d6d3064",
+      "@type" : "sc:Canvas",
+      "label" : "Frontmatter vii",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d369ae6c-38d1-4da9-ab9e-038cbe047e23",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/9-phantasmion-vii/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/9-phantasmion-vii",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://f49a7e38-bc51-45a6-9a1a-b1d31d6d3064"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://01349b75-252c-40e9-96ca-52900bb23434",
+      "@type" : "sc:Canvas",
+      "label" : "Frontmatter ix",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://055038a3-0574-4d38-8833-9b19230e73f6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/10-phantasmion-viii/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/10-phantasmion-viii",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://01349b75-252c-40e9-96ca-52900bb23434"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4d8f46b4-63d1-4837-870b-15e7731a5853",
+      "@type" : "sc:Canvas",
+      "label" : "Vol. 1 Chp. 1 pg. 1",
+      "height" : 1300,
+      "width" : 775,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://81cd9176-127b-464c-a307-7aa1e7ca67b6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/11-phantasmion-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/11-phantasmion-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1300,
+          "width" : 775
+        },
+        "on" : "http://4d8f46b4-63d1-4837-870b-15e7731a5853"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
