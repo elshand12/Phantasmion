@@ -94,6 +94,11 @@
         },
         "on" : "http://aa35f0ee-d950-48bb-95a4-177280bdf31b"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/fm_i_annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://20f85619-10ea-47db-891e-11df31b6408c",
@@ -119,6 +124,11 @@
           "width" : 775
         },
         "on" : "http://20f85619-10ea-47db-891e-11df31b6408c"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/fm_ii_annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -146,6 +156,11 @@
         },
         "on" : "http://652a7822-704c-4675-93cd-edf5b23ef270"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/fm_iii_annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://370e1347-6440-4763-b2ed-e4edb9eb8629",
@@ -171,6 +186,11 @@
           "width" : 775
         },
         "on" : "http://370e1347-6440-4763-b2ed-e4edb9eb8629"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/fm_iv_annotation.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -198,6 +218,11 @@
         },
         "on" : "http://56505311-3689-4afb-852a-7bcd6c11aa73"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/fm_v_annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://b16c4c17-5bc1-4c50-b711-e6c72f1ea2c7",
@@ -223,6 +248,11 @@
           "width" : 775
         },
         "on" : "http://b16c4c17-5bc1-4c50-b711-e6c72f1ea2c7"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/fm_vi_annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -250,11 +280,16 @@
         },
         "on" : "http://f49a7e38-bc51-45a6-9a1a-b1d31d6d3064"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/fm_vii_annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://01349b75-252c-40e9-96ca-52900bb23434",
       "@type" : "sc:Canvas",
-      "label" : "Frontmatter ix",
+      "label" : "Frontmatter viii",
       "height" : 1300,
       "width" : 775,
       "images" : [ {
@@ -275,6 +310,11 @@
           "width" : 775
         },
         "on" : "http://01349b75-252c-40e9-96ca-52900bb23434"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/fm_ix_annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -301,6 +341,11 @@
           "width" : 775
         },
         "on" : "http://4d8f46b4-63d1-4837-870b-15e7731a5853"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://elshand12.github.io/Phantasmion/annotations/main_1_annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
