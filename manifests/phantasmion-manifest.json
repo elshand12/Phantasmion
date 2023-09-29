@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://elshand12.github.io/Phantasmion/manifests/phantasmion-manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "Phantasmion",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "A copy of Sara Coleridge's Phantasmion (1837), annotated by the author in 1846",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Coleridge, Sara. Phantasmion. London : William Pickering, 1837. Rare Book Collection, Louis Round Wilson Special Collections Library, University of North Carolina at Chapel Hill.",
   "sequences" : [ {
     "@id" : "http://70d0608a-aa13-40e3-a7cf-3d4885d10d8c",
     "@type" : "sc:Sequence",
@@ -305,5 +305,46 @@
       "related" : ""
     } ]
   } ],
-  "structures" : [ ]
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/1", "http://example.org/iiif/book1/range/2", "http://example.org/iiif/book1/range/3", "http://example.org/iiif/book1/range/4", "http://example.org/iiif/book1/range/5", "http://example.org/iiif/book1/range/6", "http://example.org/iiif/book1/range/7" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/1",
+    "@type" : "sc:Range",
+    "label" : "Cover",
+    "canvases" : [ "http://c0a82ef0-14c3-4ae2-a1ca-1092cf0ade97" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/2",
+    "@type" : "sc:Range",
+    "label" : "Bookplate",
+    "canvases" : [ "http://59ef4f9c-26e9-4a62-a13f-b48aae728706" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/3",
+    "@type" : "sc:Range",
+    "label" : "L'Envoy",
+    "canvases" : [ "http://aa35f0ee-d950-48bb-95a4-177280bdf31b" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/4",
+    "@type" : "sc:Range",
+    "label" : "Zelneth",
+    "canvases" : [ "http://20f85619-10ea-47db-891e-11df31b6408c", "http://652a7822-704c-4675-93cd-edf5b23ef270" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/5",
+    "@type" : "sc:Range",
+    "label" : "Feydeleen to Zelneth.",
+    "canvases" : [ "http://370e1347-6440-4763-b2ed-e4edb9eb8629" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/6",
+    "@type" : "sc:Range",
+    "label" : "Song for Phantasmion",
+    "canvases" : [ "http://56505311-3689-4afb-852a-7bcd6c11aa73" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/7",
+    "@type" : "sc:Range",
+    "label" : "Presentation inscription",
+    "canvases" : [ "http://b16c4c17-5bc1-4c50-b711-e6c72f1ea2c7", "http://f49a7e38-bc51-45a6-9a1a-b1d31d6d3064", "http://055038a3-0574-4d38-8833-9b19230e73f6", "http://81cd9176-127b-464c-a307-7aa1e7ca67b6" ]
+  } ]
 }
