@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://elshand12.github.io/Phantasmion/annotations/fm_i_annotations.json", "https://elshand12.github.io/Phantasmion/annotations/fm_ii_annotations.json" ],
+  "otherContent" : [ "https://elshand12.github.io/Phantasmion/annotations/fm_i_annotations.json", "https://elshand12.github.io/Phantasmion/annotations/fm_ii_annotations.json", "https://elshand12.github.io/Phantasmion/annotations/fm_iii_annotations.json" ],
   "@id" : "https://elshand12.github.io/Phantasmion/annotations/collection.json",
   "label" : "All annotations loaded in elshand12/Phantasmion project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
