@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"font-family: Times; font-size: medium;\">gladness &amp; tranquility. The world without is full of sorrow &ndash; real sorrow, unreal pleasure, evanescent indeed as snow upon a river. The intellectual life has a solidity &amp; permanence about it. We have our old powers of thought and yearly new additions &ndash; our outward possessions wane &amp; worsen continually or suddenly fall away and have us sad at heart.\n<p style=\"font-family: Times; font-size: medium;\">I never feel cheerful except when my intellect is engaged &amp; occupied. But now my eyes are dimmed with tears, and I will say no more &ndash; except to express a hope that your outward life may continue to be much happier than mine, &amp; your mind were more &amp; more healthfully active.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p style=\"font-family: Times; font-size: medium;\">gladness &amp; tranquility. The world without is full of sorrow &ndash; real sorrow, unreal pleasure, evanescent indeed as snow upon a river. The intellectual life has a solidity &amp; permanence about it. We have our old powers of thought and yearly new additions &ndash; our outward possessions wane &amp; worsen continually or suddenly fall away and have us sad at heart.</p>\n<p style=\"font-family: Times; font-size: medium;\">I never feel cheerful except when my intellect is engaged &amp; occupied. But now my eyes are dimmed with tears, and I will say no more &ndash; except to express a hope that your outward life may continue to be much happier than mine, &amp; your mind were more &amp; more healthfully active.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/115039182253776354732",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-09-29T13:19:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695993548789",
+    "dcterms:modified" : "2023-09-29T13:19:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://elshand12.github.io/Phantasmion/manifests/phantasmion-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=10,-1,759,1302"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M21.42122,20.2806c0,7.24085 -4.0245,13.74667 -5.20015,20.80062c-2.6863,16.11781 -3.46677,31.95737 -3.46677,48.53477c0,5.44524 -1.6642,14.07464 0,19.06723c3.57921,10.73762 1.72178,24.23258 5.20015,34.66769c2.70284,8.10853 4.70322,17.07951 6.93354,26.00077c1.43735,5.74941 -2.65163,15.49736 0,20.80062c4.16096,8.32193 0.57001,19.04389 3.46677,27.73415c6.09969,18.29906 3.46677,41.88129 3.46677,62.40185c0,10.60793 1.0459,23.90898 -3.46677,32.93431c-1.16206,2.32413 0.46843,8.05817 0,10.40031c-1.44103,7.20517 -3.46677,13.45848 -3.46677,20.80062c0,3.71105 -2.06263,18.90261 1.73338,20.80062c4.26905,2.13453 21.9281,1.73338 27.73415,1.73338c12.27595,0 24.49558,0.64772 36.40108,-1.73338c3.84207,-0.76841 8.33405,0.94991 12.13369,0c11.20607,-2.80152 24.59559,-5.20015 36.40108,-5.20015c17.70801,0 31.40467,-2.24319 48.53477,-3.46677c19.39695,-1.3855 39.48251,0 58.93508,0c25.02014,0 59.04598,-3.45093 83.20246,0c11.12574,1.58939 21.77411,4.7015 32.93431,6.93354c7.37237,1.47447 16.68032,0 24.26739,0c15.7769,0 36.49808,3.41827 50.26815,-3.46677c4.13436,-2.06718 9.24472,0 13.86708,0c21.79341,0 42.99274,6.17181 64.13523,10.40031c19.01092,3.80218 38.44426,5.71095 57.20169,10.40031c3.87598,0.96899 22.18056,-0.35344 24.26739,1.73338c0.9639,0.9639 2.79794,3.99905 5.20015,5.20015c1.05054,0.52527 4.47379,1.00702 5.20015,1.73338c3.43066,3.43066 1.73338,31.5087 1.73338,36.40108c0,34.68193 -0.91627,66.43844 -6.93354,100.53631c-5.93234,33.61658 -6.93354,66.54496 -6.93354,100.53631c0,4.78414 -0.93603,10.92032 0,15.60046c1.08003,5.40014 4.21541,13.82673 3.46677,19.06723c-2.24628,15.72394 -7.59552,30.73027 -8.66692,46.80139c-3.54534,53.18016 0.97325,106.19121 -3.46677,159.47139c-1.25954,15.11449 -3.53714,30.10088 -5.20015,45.068c-1.74886,15.73977 0,32.63077 0,48.53477c0,35.82328 0,71.64657 0,107.46985c0,18.03133 6.93354,33.75997 6.93354,48.53477c0,2.59604 4.7348,14.33243 1.73338,17.33385c-0.99309,0.99309 -31.42369,0 -34.66769,0c-35.43801,0 -69.51752,-1.20416 -104.00308,-10.40031c-34.83293,-9.28878 -66.48534,-17.33385 -102.26969,-17.33385c-44.07392,0 -89.52466,3.38046 -133.47062,0c-28.37209,-2.18247 -58.25466,-4.10127 -86.66923,-1.73338c-4.74816,0.39568 -9.15035,2.79295 -13.86708,3.46677c-13.58165,1.94024 -26.64062,1.64265 -39.86785,6.93354c-12.02858,4.81143 -20.3886,20.52594 -31.20092,27.73415c-5.91827,3.94551 -16.27789,2.41081 -20.80062,6.93354c-2.88897,2.88897 -1.00253,8.11397 -1.73338,12.13369c-3.0529,16.79095 -5.08968,33.57434 -8.66692,50.26815c-3.70073,17.27005 -1.73338,36.04009 -1.73338,53.73492c0,6.75443 -1.2794,16.50842 1.73338,22.534c8.09661,16.19322 26.05931,10.88183 41.60123,10.88183c31.20092,0 62.40185,0 93.60277,0c153.11564,0 306.23129,0 459.34693,0c41.60123,0 83.20246,0 124.8037,0c8.66692,0 17.33385,0 26.00077,0c3.24661,0 10.27798,0.27864 10.40031,0c1.9104,-4.35149 0,-19.55215 0,-23.01552c0,-20.40272 -0.38104,-40.38327 -1.73338,-60.66846c-3.91734,-58.76007 -4.66858,-117.91621 -6.93354,-176.80523c-1.95677,-50.87612 3.9169,-103.35149 0,-154.27123c-1.23015,-15.99201 -8.62971,-30.86603 -10.40031,-46.80139c-1.39129,-12.52159 -0.77983,-27.39062 0,-39.86785c2.14421,-34.3073 8.43424,-67.75355 6.93354,-102.26969c-2.16776,-49.85845 -6.79788,-100.83775 -3.46677,-150.80446c2.07948,-31.19221 1.73338,-62.24723 1.73338,-93.60277c0,-12.74528 1.28434,-27.02441 0,-39.86785c-1.62671,-16.26709 -5.83873,-32.11263 -6.93354,-48.53477c-1.09855,-16.47818 0,-33.84307 0,-50.26815c0,-40.43266 0.18977,-79.52044 5.20015,-119.60354c1.55423,-12.4338 -0.78097,-25.63895 0,-38.13446c1.48983,-23.83728 6.20195,-47.97781 10.40031,-71.06877c2.17893,-11.98411 6.62853,-27.22082 3.46677,-39.86785c-3.05476,-12.21902 -15.59327,-22.52681 -24.26739,-31.20092c-2.85994,-2.85994 -8.08913,0 -12.13369,0c-5.77795,0 -11.5559,0 -17.33385,0c-29.9305,0 -57.33469,-3.27315 -86.66923,-8.66692c-46.66244,-8.57987 -121.79915,-6.60997 -169.8717,-3.46677c-6.66173,0.43557 -40.70882,0.84097 -45.068,5.20015c-2.85994,2.85994 -8.12036,0.50167 -12.13369,0c-17.89947,-2.23743 -35.71739,-5.53839 -53.73492,-6.41352c-55.60389,-2.70076 -112.39069,0 -168.13831,0c-13.28928,0 -26.57856,0 -39.86785,0c-23.29175,0 -49.7313,-2.63177 -72.80216,1.21337c-6.60496,1.10083 -13.16209,4.96516 -19.06723,6.93354c-6.00514,2.00171 -22.534,3.96934 -22.534,10.40031\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_d441793c-673d-42ce-bb20-de13c463e418\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4d8f46b4-63d1-4837-870b-15e7731a5853"
+    } ]
+  } ],
+  "@id" : "https://elshand12.github.io/Phantasmion/annotations/main_1_annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
