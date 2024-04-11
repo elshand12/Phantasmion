@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 775,
+    "id" : "https://elshand12.github.io/phantasmion/images/phant_3/canvas/",
+    "label" : {
+      "none" : [ "phant_3" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://elshand12.github.io/phantasmion/images/phant_3/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://elshand12.github.io/phantasmion/images/phant_3/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 41
+            }, {
+              "width" : 49,
+              "height" : 82
+            }, {
+              "width" : 97,
+              "height" : 163
+            }, {
+              "width" : 194,
+              "height" : 325
+            }, {
+              "width" : 388,
+              "height" : 650
+            }, {
+              "width" : 775,
+              "height" : 1300
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 775,
+            "@id" : "https://elshand12.github.io/phantasmion/images/phant_3",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1300
+          } ],
+          "format" : "image/jpeg",
+          "width" : 775,
+          "id" : "https://elshand12.github.io/phantasmion/images/phant_3/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1300
+        },
+        "target" : "https://elshand12.github.io/phantasmion/images/phant_3/canvas/"
+      } ]
+    } ],
+    "height" : 1300
+  }, {
+    "width" : 775,
     "id" : "https://elshand12.github.io/Phantasmion/images/phant_2/canvas/",
     "label" : {
       "none" : [ "phant_2" ]
